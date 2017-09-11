@@ -1,0 +1,42 @@
+{
+   "room":"Test",
+   "author":"Test",
+   "icon": null,
+   "css": "https://fatejapan.github.io/test/room.css",
+   "rules":{
+      "allowAutorespond":false,
+      "allowAutowoot":true,
+      "allowAutojoin":true,
+      "allowAutograb":true,
+      "allowSmartVote":true,
+      "allowEmotes":true,
+      "allowShowingMehs":true,
+      "forceSmartVote":false
+   },
+   "ccc":{
+      "admin": "#FFFAFA",
+      "ambassador": "#89BE6C",
+      "host": "#CD5B45",
+      "cohost":"#CD0000",
+      "manager":"#8A2BE2",
+      "bouncer":"#FF1493",
+      "rdj":"#4169E1",
+      "subscriber": "#D4AF37",
+      "silversubscriber": "#D4D4D4",
+      "friend": null,
+      "user": null
+   },
+   "images":{
+      "background": "https://i.imgur.com/BWeG6G9.png",
+      "playback": "https://i.imgur.com/xs54MFX.png",
+      "admin": null,
+      "ambassador": "http://i.imgur.com/VajnrE5.png",
+      "host": "http://i.imgur.com/LgQUcZa.png",
+      "cohost": "http://i.imgur.com/OHiIsw9.png",
+      "manager": "http://i.imgur.com/jFlPb8K.png",
+      "bouncer": "http://i.imgur.com/a0mtnao.png",
+      "rdj": "http://i.imgur.com/7VGIaKy.png",
+      "subscriber": "http://i.imgur.com/dytvP3W.png",
+      "silversubscriber": "http://i.imgur.com/fDgbfwx.png"
+   },
+}
