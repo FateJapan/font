@@ -1,6 +1,6 @@
 {
-   "room":"Test",
-   "author":"Test",
+   "room":"Lient00zx3",
+   "author":"test",
    "icon": null,
    "css": "https://fatejapan.github.io/test/room.css",
    "rules":{
@@ -39,4 +39,21 @@
       "subscriber": "http://i.imgur.com/dytvP3W.png",
       "silversubscriber": "http://i.imgur.com/fDgbfwx.png"
    },
+   "emotes": {
+    "pepepls": "https://nightbloo.github.io/plug/custom-emotes/PepePls.gif",
+    "lolidance": "https://nightbloo.github.io/plug/custom-emotes/loliDance.gif",
+    "domlove": "https://nightbloo.github.io/plug/custom-emotes/domLove.png",
+    "domevil": "https://nightbloo.github.io/plug/custom-emotes/domEvil.png",
+    "domrage": "https://nightbloo.github.io/plug/custom-emotes/domRage.png",
+    "domragel": "https://nightbloo.github.io/plug/custom-emotes/domRageL.png",
+    "domcry": "https://nightbloo.github.io/plug/custom-emotes/domCry.png",
+    "feelsbirthdayman": "https://nightbloo.github.io/plug/custom-emotes/feelsbirthdayman.png",
+    "heygasm": "https://nightbloo.github.io/plug/custom-emotes/heygasm.png",
+    "dankwithit": "https://nightbloo.github.io/plug/custom-emotes/dankwithit.gif",
+    "feelsfuckyouman": "https://nightbloo.github.io/plug/custom-emotes/feelsfuckyouman.png",
+    "dankpls": "https://nightbloo.github.io/plug/custom-emotes/dankpls.png",
+    "freshprincedance": "https://nightbloo.github.io/plug/custom-emotes/freshprincedance.gif",
+    "russiandance": "https://nightbloo.github.io/plug/custom-emotes/russiandance.gif",
+    "roohey": "https://nightbloo.github.io/plug/custom-emotes/rooHey.png"
+  }
 }
